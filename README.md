@@ -3,9 +3,7 @@ This repo summarizes the content of the Nanodegree in Computer Vision at Udacity
 
 ## Projects
 Throughout this Nanodegree program, one will master master valuable skills by building the following projects:
-  - Facial Keypoint Detection
-  - Automatic Image Captioning
-  - Landmark Detection and Tracking
+
 
 ### Facial Keypoint Detection
 Use image processing techniques and deep learning techniques to detect faces in an image and find facialkeypoints, such as the position of the eyes, nose, and mouth on a face.
